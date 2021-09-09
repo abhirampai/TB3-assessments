@@ -134,12 +134,17 @@ input: focus {
 }
 
 .footer > h1 {
-  padding: 3rem;
+  padding-top: 3rem;
+  padding-left: 3rem;
   font-size: 5rem;
 }
 
 .footer > p {
-  font-size: 2.5rem;
-  padding-right: 4rem;
+  font-size: 0.875rem;
   padding-left: 3rem;
+}
+
+.contactemail {
+  color: black;
+  font-weight: bolder;
 }
